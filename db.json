@@ -1,5 +1,5 @@
 {
-    "tv": [
+    "tv1": [
         {
             "nameTv": "BRAVIA XR Mini Led",
             "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422963_1.jpg",
@@ -20,7 +20,9 @@
             "inchTv": "69inch",
             "priceTv": "$680",
             "yearTv": "2022"
-        },
+        }
+    ],
+    "tv2": [
         {
             "nameTv": "SONY BRAVIA XR OLED",
             "imageTv": "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422956.jpg",
